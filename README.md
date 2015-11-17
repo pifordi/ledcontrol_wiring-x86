@@ -5,3 +5,6 @@ Intel Galileo is a board that runs limited-linux on it but you can boot the boar
 
 https://yildirimsemih.wordpress.com/2015/07/02/ubilinux-kurulumu-wiringx86-moduluyle-led-kontrolu-intel-galileo-python/
 
+Usage:
+Enter a pin number which is between 2-13 and enter a command "on" or "off" to control the pin. 
+
